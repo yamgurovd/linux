@@ -37,3 +37,4 @@ https://stepik.org/course/179348/info
 ---
 ## Содержание 
 - [2 Работа с Shell](/2%20Работа%20с%20Shell/Работа%20с%20Shell.md)
+- 
