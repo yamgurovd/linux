@@ -72,26 +72,26 @@
 
 1. `microk8s status --wait-ready`
 
-![ssh](/course_helpers/9%20Docker%20и%20деплой%20проекта/cub1.png)
+![ssh](/9%20Docker%20и%20деплой%20проекта/cub1.png)
 
 2. `microk8s is running
 high-availability: no
 addons: enabled 0 of 29 `
 
-![ssh](/course_helpers/9%20Docker%20и%20деплой%20проекта/cub2.png)
+![ssh](/9%20Docker%20и%20деплой%20проекта/cub2.png)
 
 ### Список нод
 
 `microk8s kubectl get nodes`
-![ssh](/course_helpers/9%20Docker%20и%20деплой%20проекта/cub3.png)
+![ssh](/9%20Docker%20и%20деплой%20проекта/cub3.png)
 
 ### Вход в дашборд
 
 1. `microk8s dashboard-proxy`
-   ![ssh](/course_helpers/9%20Docker%20и%20деплой%20проекта/cub4.png)
+   ![ssh](/9%20Docker%20и%20деплой%20проекта/cub4.png)
 2. `https://127.0.0.1:10443/#/login`
-   ![ssh](/course_helpers/9%20Docker%20и%20деплой%20проекта/cub5.png)
-   ![ssh](/course_helpers/9%20Docker%20и%20деплой%20проекта/cub6.png)
+   ![ssh](/9%20Docker%20и%20деплой%20проекта/cub5.png)
+   ![ssh](/9%20Docker%20и%20деплой%20проекта/cub6.png)
 
 Токен который был использован 
 ```text

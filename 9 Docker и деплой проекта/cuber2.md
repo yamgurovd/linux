@@ -84,7 +84,7 @@ wine MobaXterm_Personal_25.2.exe
 ssh d@192.168.0.101
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/cuber30.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/cuber30.png)
 где:
 
 - `d` — имя пользователя на ноутбуке,
@@ -100,7 +100,7 @@ ssh d@192.168.0.101
 microk8s dashboard-proxy
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/cuber31.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/cuber31.png)
 В ответ будет выведен адрес Dashboard, например:  
 `http://127.0.0.1:10443`
 
@@ -116,7 +116,7 @@ microk8s dashboard-proxy
     - **Destination**: 127.0.0.1:10443
     - **Remote server**: 192.168.0.101
 5. Сохраните настройки и подключитесь.
-   ![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/cuber32.png)
+   ![Dbeaver](/9%20Docker%20и%20деплой%20проекта/cuber32.png)
 
 ---
 
@@ -128,8 +128,8 @@ microk8s dashboard-proxy
 https://localhost:10443
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/cuber33.png)
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/cuber34.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/cuber33.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/cuber34.png)
 При необходимости подтвердите исключение безопасности (Dashboard использует самоподписанный сертификат).
 
 ---
