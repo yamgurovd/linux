@@ -6,12 +6,12 @@
 
 ## Содержание
 
-1. [Установка и настройка Docker на локальном компьютере (Linux)](/course_helpers/9%20Docker%20и%20деплой%20проекта/Docker1.md)
-2. [Запуск Redis в Docker](/course_helpers/9%20Docker%20и%20деплой%20проекта/Docker_redis.md)
-3. [Запуск проекта с Dockerfile](/course_helpers/9%20Docker%20и%20деплой%20проекта/Dockerfile.md)
-4. [Инструкция для запуска Docker с БД, Redis и Backend](/course_helpers/9%20Docker%20и%20деплой%20проекта/Docker5.md)
-5. [Docker Compose](/course_helpers/9%20Docker%20и%20деплой%20проекта/Compose.md)
-5. [Nginx](/course_helpers/9%20Docker%20и%20деплой%20проекта/NGINX.md)
+1. [Установка и настройка Docker на локальном компьютере (Linux)](/9%20Docker%20и%20деплой%20проекта/Docker1.md)
+2. [Запуск Redis в Docker](/9%20Docker%20и%20деплой%20проекта/Docker_redis.md)
+3. [Запуск проекта с Dockerfile](/9%20Docker%20и%20деплой%20проекта/Dockerfile.md)
+4. [Инструкция для запуска Docker с БД, Redis и Backend](/9%20Docker%20и%20деплой%20проекта/Docker5.md)
+5. [Docker Compose](/9%20Docker%20и%20деплой%20проекта/Compose.md)
+5. [Nginx](/9%20Docker%20и%20деплой%20проекта/NGINX.md)
 ---
 
 ### Docker: Основные команды

@@ -64,7 +64,7 @@ backend-приложения и фоновых задач Celery, обеспеч
 docker network create myNetwork
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/dcoker_network.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/dcoker_network.png)
 
 ### Запуск Postgres в Docker-контейнере
 
@@ -98,7 +98,7 @@ JWT_ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/docker_DB1.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/docker_DB1.png)
 
 ### Запуск Redis в Docker-контейнере
 
@@ -128,7 +128,7 @@ JWT_ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/docker_redis.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/docker_redis.png)
 
 ### Запуск Backend в Docker-контейнере
 
@@ -163,7 +163,7 @@ docker run --name booking_celery_beat \
 docker build -t booking_image .
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/docker_back.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/docker_back.png)
 
 
 ----

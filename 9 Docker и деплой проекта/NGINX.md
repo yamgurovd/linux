@@ -291,6 +291,6 @@ chmod 644 nginx.conf
 docker run --rm -v $(pwd)/nginx.conf:/etc/nginx/nginx.conf nginx nginx -t
 ```
 
-![BPMN-схема бизнес-процесса](/course_helpers/9%20Docker%20и%20деплой%20проекта/nginx_6.png)
+![BPMN-схема бизнес-процесса](/9%20Docker%20и%20деплой%20проекта/nginx_6.png)
 
 ---

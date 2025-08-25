@@ -60,7 +60,7 @@ Uvicorn и два процесса Celery (обычный worker и worker с be
 
 #### Пример запуска
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/app_bash_script.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/app_bash_script.png)
 ---
 
 # Подробная инструкция

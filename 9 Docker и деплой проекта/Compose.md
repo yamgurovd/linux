@@ -83,7 +83,7 @@ docker network ls
 docker network create myNetwork
 ```
 
-![Dbeaver](/course_helpers/9%20Docker%20и%20деплой%20проекта/docker-network.png)
+![Dbeaver](/9%20Docker%20и%20деплой%20проекта/docker-network.png)
 
 ### Запускать проект командой:
 
