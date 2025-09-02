@@ -1,13 +1,11 @@
-# Основы Linux
+# Курсы и инструкции
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png" alt="Логотип Linux (пингвин Tux)" width="120" style="display: block; margin: 0 auto;" />  
-*Официальный талисман Linux — пингвин Tux*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png" alt="Логотип Linux (пингвин Tux)" width="120" style="display: block; margin: 0 auto;" />
 
-https://stepik.org/course/179348/info
 
 ---
 
-## Содержание курса Основы Linux
+## Содержание курса "Основы Linux"
 
 - [2 Работа с Shell](/2%20Работа%20с%20Shell/Работа%20с%20Shell.md)
 - [3 Структура Linux](/3%20%20Структура%20Linux/3%20%20Структура%20Linux.md)
@@ -15,9 +13,11 @@ https://stepik.org/course/179348/info
 - [5 Особенности Bash](/5%20%20Особенности%20Bash/5%20%20Особенности%20Bash.md)
 - [6  Доступ и права](/6%20%20Доступ%20и%20права/6%20%20Доступ%20и%20права.md)
 
+##### Ссылка на курс - https://stepik.org/course/179348/info
+
 ---
 
-## Содержание не связанное с курсом
+## Содержание не связанное с курсами
 
 - [6  Работа с Docker](/9%20Docker%20и%20деплой%20проекта/Docker.md)
 - [8. Запуск Swagger-документации и сервера для локальной сети](/9%20Docker%20и%20деплой%20проекта/Localhost.md)
@@ -28,8 +28,11 @@ https://stepik.org/course/179348/info
 - [13 Перенос SSH ключей.md](/9%20Docker%20и%20деплой%20проекта/12%20Перенос%20SSH%20ключей.md)
 ---
 
-## Курс https://stepik.org/course/74070/syllabus?auth=registration
 
-## Содержимое курса Основы работы в консоли Linux, настройка сетевых служб (кластер)
+## Содержимое курса "Основы работы в консоли Linux, настройка сетевых служб (кластер)"
 
 - [1  Работа с консолью Linux](/Linux2/1%20%20Работа%20с%20консолью%20Linux/1%20%20Работа%20с%20консолью%20Linux.md)
+
+##### Ссылка на курс https://stepik.org/course/74070/syllabus?auth=registration
+
+---
