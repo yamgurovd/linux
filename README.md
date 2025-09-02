@@ -1,7 +1,4 @@
-# Курсы и инструкции
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png" alt="Логотип Linux (пингвин Tux)" width="120" style="display: block; margin: 0 auto;" />
-
+# Курсы и инструкции по системному администрированию
 
 ---
 

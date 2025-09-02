@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b11d3bb-5d7d-43d6-9f10-d132b740666d" name="Changes" comment="UPD" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30VoxJlr9o7mulxyciwwbYlcDMh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/d/PycharmProjects/bfs_log_viewer_infrastructure&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b11d3bb-5d7d-43d6-9f10-d132b740666d" name="Changes" comment="" />
+      <created>1753722345857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753722345857</updated>
+    </task>
+    <task id="LOCAL-00001" summary="4.4 RPM и YUM">
+      <option name="closed" value="true" />
+      <created>1753726267822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753726267822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4.4 RPM и YUM(1)">
+      <option name="closed" value="true" />
+      <created>1753727073398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753727073398</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4.6 DPKG и APT">
+      <option name="closed" value="true" />
+      <created>1753729069213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753729069213</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4.7 APT и APT-GET">
+      <option name="closed" value="true" />
+      <created>1753813858905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753813858905</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4.7 APT и APT-GET(1)">
+      <option name="closed" value="true" />
+      <created>1753814450057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753814450057</updated>
+    </task>
+    <task id="LOCAL-00006" summary="4.9 Упражнение - Управление пакетами">
+      <option name="closed" value="true" />
+      <created>1753816101506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753816101506</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Команды всего блока">
+      <option name="closed" value="true" />
+      <created>1753816650144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753816650144</updated>
+    </task>
+    <task id="LOCAL-00008" summary="5.2 Архивы">
+      <option name="closed" value="true" />
+      <created>1754329421230</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754329421231</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5.3 Поиск файлов и директорий">
+      <option name="closed" value="true" />
+      <created>1754332023107</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754332023107</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5.4 Перенаправление">
+      <option name="closed" value="true" />
+      <created>1754937985596</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754937985596</updated>
+    </task>
+    <task id="LOCAL-00011" summary="5.4 Перенаправление(1)">
+      <option name="closed" value="true" />
+      <created>1754938271936</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1754938271936</updated>
+    </task>
+    <task id="LOCAL-00012" summary="5.5 Логические операторы">
+      <option name="closed" value="true" />
+      <created>1755023036469</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755023036469</updated>
+    </task>
+    <task id="LOCAL-00013" summary="5.7 Текстовые редакторы">
+      <option name="closed" value="true" />
+      <created>1755626816843</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755626816843</updated>
+    </task>
+    <task id="LOCAL-00014" summary="5.9 Cron">
+      <option name="closed" value="true" />
+      <created>1755628580352</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1755628580352</updated>
+    </task>
+    <task id="LOCAL-00015" summary="5.11 Упражнение - Особенности Bash">
+      <option name="closed" value="true" />
+      <created>1755800047306</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755800047306</updated>
+    </task>
+    <task id="LOCAL-00016" summary="6.1 Введение">
+      <option name="closed" value="true" />
+      <created>1755800779202</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755800779202</updated>
+    </task>
+    <task id="LOCAL-00017" summary="6.3 Управление пользователями">
+      <option name="closed" value="true" />
+      <created>1756142055548</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1756142055548</updated>
+    </task>
+    <task id="LOCAL-00018" summary="6.4 Файлы управления доступом">
+      <option name="closed" value="true" />
+      <created>1756144007732</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1756144007732</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1.1 Установка сервера Linux в VirtualBox(1)">
+      <option name="closed" value="true" />
+      <created>1756148671369</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1756148671369</updated>
+    </task>
+    <task id="LOCAL-00020" summary="6.6 Разрешения файла">
+      <option name="closed" value="true" />
+      <created>1756232527193</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1756232527193</updated>
+    </task>
+    <task id="LOCAL-00021" summary="6.8 SSH &amp; SCP">
+      <option name="closed" value="true" />
+      <created>1756407698138</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1756407698138</updated>
+    </task>
+    <task id="LOCAL-00022" summary="6.10 Упражнение - Пользователи и SSH">
+      <option name="closed" value="true" />
+      <created>1756751698771</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1756751698771</updated>
+    </task>
+    <task id="LOCAL-00023" summary="6.10 Упражнение - Пользователи и SSH(1)">
+      <option name="closed" value="true" />
+      <created>1756752052812</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1756752052812</updated>
+    </task>
+    <task id="LOCAL-00024" summary="6.11 Про IPTables">
+      <option name="closed" value="true" />
+      <created>1756835951247</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1756835951247</updated>
+    </task>
+    <task id="LOCAL-00025" summary="UPD">
+      <option name="closed" value="true" />
+      <created>1756836828619</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1756836828619</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4.4 RPM и YUM" />
+    <MESSAGE value="4.4 RPM и YUM(1)" />
+    <MESSAGE value="4.6 DPKG и APT" />
+    <MESSAGE value="4.7 APT и APT-GET" />
+    <MESSAGE value="4.7 APT и APT-GET(1)" />
+    <MESSAGE value="4.9 Упражнение - Управление пакетами" />
+    <MESSAGE value="Команды всего блока" />
+    <MESSAGE value="5.2 Архивы" />
+    <MESSAGE value="5.3 Поиск файлов и директорий" />
+    <MESSAGE value="5.4 Перенаправление" />
+    <MESSAGE value="5.4 Перенаправление(1)" />
+    <MESSAGE value="5.5 Логические операторы" />
+    <MESSAGE value="5.7 Текстовые редакторы" />
+    <MESSAGE value="5.9 Cron" />
+    <MESSAGE value="5.11 Упражнение - Особенности Bash" />
+    <MESSAGE value="6.1 Введение" />
+    <MESSAGE value="6.3 Управление пользователями" />
+    <MESSAGE value="6.4 Файлы управления доступом" />
+    <MESSAGE value="1.1 Установка сервера Linux в VirtualBox(1)" />
+    <MESSAGE value="6.6 Разрешения файла" />
+    <MESSAGE value="6.8 SSH &amp; SCP" />
+    <MESSAGE value="6.10 Упражнение - Пользователи и SSH" />
+    <MESSAGE value="6.10 Упражнение - Пользователи и SSH(1)" />
+    <MESSAGE value="6.11 Про IPTables" />
+    <MESSAGE value="UPD" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPD" />
+  </component>
+</project>
